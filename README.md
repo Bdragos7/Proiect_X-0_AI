@@ -1,4 +1,4 @@
-# Proiect_X-0_AI
+# Proiect_X&0_AI
 
 Joc X&0 cu reguli modificate. Jocul se desfășoară pe un grid NxM cu 10>=N  și M>=5( utilizator este întrebat ce dimenisiuni va avea tabla ).
 
